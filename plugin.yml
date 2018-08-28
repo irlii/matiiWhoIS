@@ -1,0 +1,6 @@
+name: mWhoIs-1.0
+version: 1.0
+main: paczka.mWhoIs.Rzad
+
+commands:
+  whois:
